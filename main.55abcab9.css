@@ -1,0 +1,2 @@
+body{padding:50px}.clock{width:300px;height:300px;border-radius:50%;background-color:pink;position:relative}.clock__secondhand{animation:rotate 60s steps(60) infinite;background-color:#00f}.clock__minutehand,.clock__secondhand{position:absolute;left:50%;bottom:50%;width:5px;height:150px;transform-origin:bottom left;transform:translateX(50%)}.clock__minutehand{animation:rotate 3600s linear infinite;background-color:red}@keyframes rotate{0%{transform:rotate(0)}to{transform:rotate(1turn)}}
+/*# sourceMappingURL=main.55abcab9.css.map */
